@@ -1,0 +1,20 @@
+
+Фамилия и имя : Нуорузи Мехди 
+Номер студента: 317306
+Группа: R-3137
+
+server : se.ifmo.ru
+port: 2222
+
+логин:  s317306
+пароль:  ihg037
+
+ls -a
+cd Laboratory02
+ls -a
+cd lab2
+ls -a
+cd src
+java -jar Pokemon.jar
+
+

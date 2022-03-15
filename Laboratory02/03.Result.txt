@@ -1,0 +1,143 @@
+Arceus Arceus from the team Blue enters the battle!
+Deino Deino from the team Purple enters the battle!
+Arceus Arceus attacks. 
+Critical hit!
+Deino Deino loses 123 hit points.
+Arceus Arceus increases evasion.
+
+Deino Deino attacks. 
+Critical hit!
+Arceus Arceus loses 47 hit points.
+Arceus Arceus decreases speed.
+
+Arceus Arceus attacks. 
+Critical hit!
+Deino Deino loses 1 hit points.
+Deino Deino isn't affected by PSYCHIC
+
+Deino Deino attacks. 
+Arceus Arceus loses 15 hit points.
+Arceus Arceus decreases speed.
+
+Arceus Arceus attacks. 
+Critical hit!
+Deino Deino loses 89 hit points.
+Deino Deino decreases special defense.
+
+Deino Deino attacks. 
+Arceus Arceus loses 2 hit points.
+
+Arceus Arceus attacks. 
+Critical hit!
+Deino Deino loses 109 hit points.
+Deino Deino faints.
+Zweilous Zweilous from the team Purple enters the battle!
+Arceus Arceus attacks. 
+Critical hit!
+Zweilous Zweilous loses 90 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Arceus Arceus loses 32 hit points.
+Zweilous Zweilous increases attack.
+
+Arceus Arceus attacks. 
+Critical hit!
+Zweilous Zweilous loses 73 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Arceus Arceus loses 77 hit points.
+Arceus Arceus decreases speed.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Arceus Arceus loses 84 hit points.
+Arceus Arceus decreases speed.
+
+Arceus Arceus attacks. 
+Zweilous Zweilous loses 29 hit points.
+Zweilous Zweilous decreases speed.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Arceus Arceus loses 105 hit points.
+Arceus Arceus decreases speed.
+
+Arceus Arceus attacks. 
+Zweilous Zweilous loses 47 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Arceus Arceus loses 69 hit points.
+Arceus Arceus decreases speed.
+Arceus Arceus faints.
+Wimpod Wimpod from the team Blue enters the battle!
+Zweilous Zweilous attacks. 
+Critical hit!
+Wimpod Wimpod loses 272 hit points.
+Wimpod Wimpod decreases speed.
+Wimpod Wimpod faints.
+Golisopod Golisopod from the team Blue enters the battle!
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 38 hit points.
+Zweilous Zweilous increases attack.
+
+Golisopod Golisopod attacks. 
+Zweilous Zweilous loses 3 hit points.
+
+Zweilous Zweilous hits himself in confusion. 
+Zweilous Zweilous loses 48 hit points.
+
+Golisopod Golisopod attacks. 
+Zweilous Zweilous loses 15 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 86 hit points.
+Zweilous Zweilous increases attack.
+
+Golisopod Golisopod attacks. 
+Critical hit!
+Zweilous Zweilous loses 4 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 7 hit points.
+
+Golisopod Golisopod attacks. 
+Critical hit!
+Zweilous Zweilous loses 5 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 7 hit points.
+
+Golisopod Golisopod attacks. 
+Critical hit!
+Zweilous Zweilous loses 5 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 6 hit points.
+
+Golisopod Golisopod attacks. 
+Critical hit!
+Zweilous Zweilous loses 8 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 91 hit points.
+Golisopod Golisopod decreases speed.
+
+Golisopod Golisopod attacks. 
+Zweilous Zweilous loses 4 hit points.
+
+Zweilous Zweilous attacks. 
+Critical hit!
+Golisopod Golisopod loses 118 hit points.
+Zweilous Zweilous increases attack.
+Golisopod Golisopod faints.
+Team Blue loses its last Pokemon.
+The team Purple wins the battle!
