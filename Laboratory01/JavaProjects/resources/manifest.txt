@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Mehdi Norouzi
-Class-Path: .
-Main-Class: lab01.Main
-
